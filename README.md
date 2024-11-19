@@ -11,7 +11,6 @@ A web application that allows users to track their running and cycling workouts 
 -   📍 Automatic user location detection
 -   💾 Local storage persistence
 -   🎯 Click-to-add workout functionality
--   📱 Responsive design
 
 ## Project Structure
 
