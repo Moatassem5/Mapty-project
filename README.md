@@ -17,9 +17,10 @@ A web application that allows users to track their running and cycling workouts 
 -   index.html  - Main HTML document
 -   style.css  - Styling with CSS custom properties
 -   script.js  - Core application logic and classes
-
-## ✈️ Live Site
- **Mapty**
+  <br>
+  
+## ✈️ [Live Site](https://moatassem5.github.io/Mapty-project/)
+  <br>
 
 ## Technologies
 
