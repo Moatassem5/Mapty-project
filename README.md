@@ -4,7 +4,7 @@
 A web application that allows users to track their running and cycling workouts on an interactive map.
 
 ## Features
-
+ 
 -   🗺️ Interactive map using  Leaflet.js
 -   🏃‍♂️ Track running workouts (distance, duration, pace, cadence)
 -   🚴‍♀️ Track cycling workouts (distance, duration, speed, elevation gain)
