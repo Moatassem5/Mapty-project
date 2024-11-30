@@ -4,23 +4,23 @@
 A web application that allows users to track their running and cycling workouts on an interactive map.
 
 ## Features
-
+ 
 -   🗺️ Interactive map using  Leaflet.js
 -   🏃‍♂️ Track running workouts (distance, duration, pace, cadence)
 -   🚴‍♀️ Track cycling workouts (distance, duration, speed, elevation gain)
 -   📍 Automatic user location detection
 -   💾 Local storage persistence
 -   🎯 Click-to-add workout functionality
--   📱 Responsive design
 
 ## Project Structure
 
 -   index.html  - Main HTML document
 -   style.css  - Styling with CSS custom properties
 -   script.js  - Core application logic and classes
-
-## ✈️ Live Site
- **Mapty**
+  <br>
+  
+## ✈️ [Live Site](https://moatassem5.github.io/Mapty-project/)
+  <br>
 
 ## Technologies
 
